@@ -1,8 +1,7 @@
 
 -------
-# Other Links
-- Link to [**LinkedIn**](https://www.linkedin.com/in/akshayadagale) profile.
-- Link to [**Medium**](https://medium.com/@akshayadagale) profile.
+- [**LinkedIn**](https://www.linkedin.com/in/akshayadagale) profile.
+- [**Medium**](https://medium.com/@akshayadagale) profile.
 
 -------
 # LANGUAGES AND TECHNOLOGIES
