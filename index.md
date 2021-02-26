@@ -1,7 +1,7 @@
 
 -------
-- [**LinkedIn**](https://www.linkedin.com/in/akshayadagale) profile.
-- [**Medium**](https://medium.com/@akshayadagale) profile.
+- [LinkedIn](https://www.linkedin.com/in/akshayadagale) profile.
+- [Medium](https://medium.com/@akshayadagale) profile.
 
 -------
 # LANGUAGES AND TECHNOLOGIES
