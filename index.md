@@ -1,8 +1,9 @@
--------
-[**LinkedIn**](https://www.linkedin.com/in/akshayadagale)
 
 -------
-## LANGUAGES AND TECHNOLOGIES
+# [**LinkedIn**](https://www.linkedin.com/in/akshayadagale)
+
+-------
+# LANGUAGES AND TECHNOLOGIES
   - Java, Python, C#, JavaScript, GraphQL, Node js, Express.js, MySQL, MongoDB, AWS (EC2, RDS), Junit,
     Selenium, Html/CSS, Git, Redis, React JS, MS-Azure, CosmosDB, Spring Boot, RealmDB
 
