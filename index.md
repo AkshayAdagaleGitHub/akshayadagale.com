@@ -1,3 +1,4 @@
+***************
 [**LinkedIn**](https://www.linkedin.com/in/akshayadagale)
 -------
 ## LANGUAGES AND TECHNOLOGIES
