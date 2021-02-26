@@ -1,14 +1,17 @@
 [**LinkedIn**](https://www.linkedin.com/in/akshayadagale)
+-------
 ## LANGUAGES AND TECHNOLOGIES
-  - Java,Python, C#, JavaScript, GraphQL, Node js, Express.js, MySQL, MongoDB, AWS (EC2, RDS), Junit,
+  - Java, Python, C#, JavaScript, GraphQL, Node js, Express.js, MySQL, MongoDB, AWS (EC2, RDS), Junit,
     Selenium, Html/CSS, Git, Redis, React JS, MS-Azure, CosmosDB, Spring Boot, RealmDB
-### PERSONAL PROJECTS
+
+-------
+# PERSONAL PROJECTS
  - [Estate Management System](https://github.com/AkshayAdagaleGitHub/Estate-Management-System)
  - [Notification System](https://github.com/AkshayAdagaleGitHub/notification-system)
  - [Hospital Management System](https://github.com/AkshayAdagaleGitHub/Doctor_Patient_Spring_boot_Application)
  - [Health Care Management System](https://github.com/AkshayAdagaleGitHub/Doctor_Patient_Spring_boot_Application)
  - [Javascript Chat bot](https://github.com/AkshayAdagaleGitHub/Chat-Bot-PHP-AJAX-and-JavaScript-)
-
+--------
 ## EXTRACURRICULAR ACTIVITIES
  - [1.Mock Practice Interviews](https://github.com/AkshayAdagaleGitHub/Mock-Practise-Problems) 
  - [2.Baa-Aiee: P2P mock interviews](https://github.com/baa-aiee)
