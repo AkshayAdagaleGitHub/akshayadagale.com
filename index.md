@@ -3,6 +3,7 @@
 # Other Links
 - Link to [**LinkedIn**](https://www.linkedin.com/in/akshayadagale) profile.
 - Link to [**Medium**](https://medium.com/@akshayadagale) profile.
+
 -------
 # LANGUAGES AND TECHNOLOGIES
   - Java, Python, C#, JavaScript, GraphQL, Node js, Express.js, MySQL, MongoDB, AWS (EC2, RDS), Junit,
