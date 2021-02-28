@@ -1,7 +1,29 @@
+# About
+- Currently working as a software engineer at Walmart Labs.
+- Host peer to peer programming over the weekends.
+
 -------
 # Language and technologies
-  - Java, Python, C#, JavaScript, GraphQL, Node js, Express.js, MySQL, MongoDB, AWS (EC2, RDS), Junit,
-    Selenium, Html/CSS, Git, Redis, React JS, MS-Azure, CosmosDB, Spring Boot, RealmDB
+  - Java 
+  - Python
+  - C#
+  - JavaScript
+  - GraphQL
+  - Node js
+  - Express.js
+  - React JS 
+  - MySQL
+  - MongoDB
+  - AWS (EC2, RDS)
+  - Junit
+  - Selenium
+  - Html/CSS
+  - Git
+  - Redis
+  - MS-Azure
+  - CosmosDB
+  - Spring Boot
+  - RealmDB
 
 -------
 # Personal projects
